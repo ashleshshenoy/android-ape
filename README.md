@@ -1,4 +1,4 @@
-# test
+Flutter demo app
 
 A new Flutter project.
 
