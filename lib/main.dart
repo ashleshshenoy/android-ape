@@ -1,4 +1,4 @@
-import 'package:app/views/profilePage.dart';
+import './views/profilePage.dart';
 import 'package:flutter/material.dart';
 
 void main() {
